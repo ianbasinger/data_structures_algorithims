@@ -109,7 +109,7 @@ public class binarytree{
 
         while (true) {
             System.out.println("\nBinary Search Tree Operations:");
-            System.out.println("1. Generate the pre-determined nodes for the tree");
+            System.out.println("1. Generate random nodes");
             System.out.println("2. Add a node");
             System.out.println("3. Delete a node");
             System.out.println("4. Print nodes by InOrder");
