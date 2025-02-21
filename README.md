@@ -1,1 +1,1 @@
-data structures and algorithims practice
+data structures and algorithms practice
